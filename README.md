@@ -1,4 +1,1 @@
-<img width="329" height="374" alt="image" src="https://github.com/user-attachments/assets/872fb764-95ef-4f05-9e4c-a45926de76f3" /><img
-  src="https://tenor.com/es/view/dapache-mod-gif-4662546106029206691"
-  width="600"
-/>
+<div class="tenor-gif-embed" data-postid="4662546106029206691" data-share-method="host" data-aspect-ratio="0.879518" data-width="100%"><a href="https://tenor.com/view/dapache-mod-gif-4662546106029206691">Dapache Mod GIF</a>from <a href="https://tenor.com/search/dapache+mod-gifs">Dapache Mod GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
