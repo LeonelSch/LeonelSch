@@ -1,4 +1,4 @@
-<img
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV1aG45Z25zZzNuYTBxMDZlYXg3c3M2M2NsdHpsdHY0Z3cwa3ZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tyqp19sV54pW/giphy.gif"
+<img width="329" height="374" alt="image" src="https://github.com/user-attachments/assets/872fb764-95ef-4f05-9e4c-a45926de76f3" /><img
+  src="https://tenor.com/es/view/dapache-mod-gif-4662546106029206691"
   width="600"
 />
