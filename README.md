@@ -1,1 +1,4 @@
-<div class="tenor-gif-embed" data-postid="4662546106029206691" data-share-method="host" data-aspect-ratio="0.879518" data-width="100%"><a href="https://tenor.com/view/dapache-mod-gif-4662546106029206691">Dapache Mod GIF</a>from <a href="https://tenor.com/search/dapache+mod-gifs">Dapache Mod GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV1aG45Z25zZzNuYTBxMDZlYXg3c3M2M2NsdHpsdHY0Z3cwa3ZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4tyqp19sV54pW/giphy.gif"
+  width="600"
+/>
