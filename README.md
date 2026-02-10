@@ -5,17 +5,9 @@
   width="600"
 />
 
-<p style="
-  color:#c9b6ff;
-  max-width:480px;
-  line-height:1.6;
-  margin-top:20px;
-  font-style:italic;
-">
-When I'm with you<br>
-<span style="color:#7f5af0;">
-I'm so close to feeling alive
-</span>
+<p>
+<font color="#c9b6ff">When I'm with you</font><br>
+<font color="#7f5af0"><i>I'm so close to feeling alive</i></font>
 </p>
 
 </div>
